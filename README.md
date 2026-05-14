@@ -1,4 +1,4 @@
-Hi, I’m Animesh Nepal Researcher in fluid dynamics and flow and transport in porous media at **CSIC, Barcelona**, working on multiphase flow in porous media.
+  Hi, I’m Animesh Nepal Researcher in fluid dynamics and flow and transport in porous media at **CSIC, Barcelona**, working on multiphase flow in porous media.
 
 ### Research interests
 - Multiphase flow
@@ -19,5 +19,3 @@ Hi, I’m Animesh Nepal Researcher in fluid dynamics and flow and transport in p
 of interface jumps, pinning and hysteresis during cyclic fluid displacements
 in an isolated pore. Journal of Colloid and Interface Science, page
 137767, 2025. ISSN 0021-9797. doi: https://doi.org/10.1016/j.jcis.2025.
-137767. URL https://www.sciencedirect.com/science/article/
-pii/S0021979725011580.
