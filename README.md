@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I’m Animesh Nepal  
+Researcher in fluid dynamics and flow and transport in porous media at **CSIC, Barcelona**, working on multiphase flow in porous media.
 
-<!--
-**animeshnepal/animeshnepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research interests
+- Multiphase flow
+- Flow and transport in porous media  
+- Computational fluid dynamics (CFD)  
 
-Here are some ideas to get you started:
+### Tools & languages
+- Simulation: **OpenFOAM**, custom CFD solvers, COMSOL
+- Analysis: **Python**, **MATLAB**,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/animeshnepal)
+- 📚 [ORCID: 0000-0002-1383-8377]  
+
+### Publications
+- A. Nepal, J. J. Hidalgo, J. Ort´ın, I. Lunati, and M. Dentz. Mechanisms
+of interface jumps, pinning and hysteresis during cyclic fluid displacements
+in an isolated pore. Journal of Colloid and Interface Science, page
+137767, 2025. ISSN 0021-9797. doi: https://doi.org/10.1016/j.jcis.2025.
+137767. URL https://www.sciencedirect.com/science/article/
+pii/S0021979725011580.
